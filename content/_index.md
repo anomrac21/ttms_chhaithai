@@ -1,4 +1,7 @@
 ---
-title: ""
+title: "Chhai Thai"
+image: images/food.jpg
+
 ---
-<p>TTMenus Menu System.</p>
+
+<p>Chhai Thai — Thai and Indian menu. Subject to 10% service charge.</p>
