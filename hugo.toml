@@ -90,7 +90,7 @@ baseURL = 'https://chhaithai.ttmenus.com/'
     phone = 18684622179
 
 [params.services]
-    analyticsid = 0
+    analyticsid = 31
     notifications = true
 
 [params.social]
